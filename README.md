@@ -51,7 +51,7 @@ Admin Dashboard for managing users, sellers, and products.
 
 Order tracking, reviews, and refunds for a seamless user experience.
 
-Key Achievements:
+-  Key Achievements:
 
 Successfully implemented a scalable and secure backend using Node.js and MongoDB.
 
@@ -92,7 +92,7 @@ Session Management: Token and refresh token mechanisms for secure sessions.
 
 Testing: Comprehensive unit and integration testing to ensure reliability.
 
-Key Achievements:
+-  Key Achievements:
 
 Built a scalable and secure backend using Spring Boot and Spring Security.
 
