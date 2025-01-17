@@ -21,15 +21,89 @@ I'm currently studying Information Technology at CanTho University, specializing
 
 # 🛠️ Projects
 
-## Project 1: [Project Name]
-- **Description:** Brief description of the project.
-- **Tech Stack:** Next.js, React, Spring Boot, MySQL
-- **Link:** [Project Link](#)
+## Project 1: E-commerce Platform (Full-stack)
+Duration: 2024 - Present
+Position: Developer
 
-## Project 2: [Project Name]
-- **Description:** Brief description of the project.
-- **Tech Stack:** Spring Boot, Java, MySQL
-- **Link:** [Project Link](#)
+- **Tech Stack:**
+
+Frontend: React.js, Redux, Tailwind CSS, Ant Design
+
+Backend: Node.js, Express.js, MongoDB, Socket.io
+
+Payment Integration: Stripe, PayPal
+
+Deployment: Vercel, Cloudinary (for image storage)
+
+- **Description:**
+
+Developed a full-stack e-commerce platform with three main roles: User, Seller, and Admin. The platform includes advanced features such as:
+
+JWT Authentication & Authorization for secure user access.
+
+Real-time messaging using Socket.io for live communication.
+
+Advanced payment integration with Stripe and PayPal.
+
+Seller Dashboard for managing products, orders, coupons, and withdrawals.
+
+Admin Dashboard for managing users, sellers, and products.
+
+Order tracking, reviews, and refunds for a seamless user experience.
+
+Key Achievements:
+
+Successfully implemented a scalable and secure backend using Node.js and MongoDB.
+
+Designed an intuitive and responsive UI using React.js and Tailwind CSS.
+
+Integrated third-party APIs (Stripe, PayPal, Cloudinary) for enhanced functionality.
+
+- **Link:**
+
+Live Demo: e-commerce-nu-lyart.vercel.app/
+GitHub Repository: https://github.com/tsthuy/e-commerce
+
+## Project 2:  Identity Service (Backend)
+Duration: 2024 - Present
+Position: Developer
+
+- **Tech Stack:**
+
+Backend: Spring Boot, Spring Security, Spring Data JPA
+
+Database: MySQL
+
+Authentication: OAuth2, JWT
+
+Tools: Docker, Maven, Postman (for testing)
+
+- **Description:**
+
+Developed a robust Identity Service for user authentication and authorization. The service includes:
+
+User Management: Create, update, and delete users.
+
+Authentication: Implemented OAuth2 and JWT for secure login and token-based authentication.
+
+Authorization: Role-based access control (RBAC) using decoded JWT tokens.
+
+Session Management: Token and refresh token mechanisms for secure sessions.
+
+Testing: Comprehensive unit and integration testing to ensure reliability.
+
+Key Achievements:
+
+Built a scalable and secure backend using Spring Boot and Spring Security.
+
+Implemented OAuth2 and JWT for secure authentication and authorization.
+
+Containerized the application using Docker for easy deployment.
+
+- **Link:**
+
+GitHub Repository: https://github.com/tsthuy/identity-service
+
 
 # 📊 GitHub Status
 
@@ -37,6 +111,6 @@ I'm currently studying Information Technology at CanTho University, specializing
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tsthuy&theme=radical&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsthuy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
