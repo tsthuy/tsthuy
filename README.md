@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm currently studying Information Technology at CanTho University. I have a solid knowledge in React.js, Next.js, Java Spring Boot, and Node.js.
+I'm currently studying Information Technology at CanTho University. I have solid knowledge of React.js, Next.js, and Java Spring Boot.
 
 ## 🌐 Socials
 
@@ -31,7 +31,7 @@ I'm currently studying Information Technology at CanTho University. I have a sol
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=tsthuy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tsthuy&theme=radical&hide_border=false)
 
