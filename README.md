@@ -29,7 +29,7 @@ I'm currently studying Information Technology at CanTho University. I have solid
 - **Tech Stack:** Spring Boot, Java, MySQL
 - **Link:** [Project Link](#)
 
-# 📊 GitHub Stats
+# 📊 GitHub Status
 
 
 
