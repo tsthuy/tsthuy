@@ -61,7 +61,7 @@ Integrated third-party APIs (Stripe, PayPal, Cloudinary) for enhanced functional
 
 - **Link:**
 
-Live Demo: e-commerce-nu-lyart.vercel.app/
+Live Demo: e-commerce-nu-lyart.vercel.app/.
 GitHub Repository: https://github.com/tsthuy/e-commerce
 
 ## Project 2:  Identity Service (Backend)
