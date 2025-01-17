@@ -1,7 +1,6 @@
 # 💫 About Me
 
-I'm currently studying Information Technology at CanTho University. I have solid knowledge of React.js, Next.js, and Java Spring Boot.
-
+I'm currently studying Information Technology at CanTho University, specializing in frontend development. I have a solid knowledge of React.js, Next.js, and Java Spring Boot. 
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/HuyTranDevDesCre)
@@ -16,6 +15,9 @@ I'm currently studying Information Technology at CanTho University. I have solid
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+
+[![](https://visitcount.itsvg.in/api?id=tsthuy&icon=7&color=0)](https://visitcount.itsvg.in)
+
 
 # 🛠️ Projects
 
@@ -38,4 +40,3 @@ I'm currently studying Information Technology at CanTho University. I have solid
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsthuy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tsthuy&icon=7&color=0)](https://visitcount.itsvg.in)
