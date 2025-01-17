@@ -17,7 +17,7 @@ I'm currently studying Information Technology at CanTho University, specializing
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
 [![](https://visitcount.itsvg.in/api?id=tsthuy&icon=7&color=0)](https://visitcount.itsvg.in)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsthuy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🛠️ Projects
 
