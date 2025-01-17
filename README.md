@@ -23,6 +23,7 @@ I'm currently studying Information Technology at CanTho University, specializing
 
 ## Project 1: E-commerce Platform (Full-stack)
 Duration: 2024 - Present
+
 Position: Developer
 
 - **Tech Stack:**
@@ -61,11 +62,13 @@ Integrated third-party APIs (Stripe, PayPal, Cloudinary) for enhanced functional
 
 - **Link:**
 
-Live Demo: e-commerce-nu-lyart.vercel.app/.
+Live Demo: e-commerce-nu-lyart.vercel.app/
+
 GitHub Repository: https://github.com/tsthuy/e-commerce
 
 ## Project 2:  Identity Service (Backend)
 Duration: 2024 - Present
+
 Position: Developer
 
 - **Tech Stack:**
