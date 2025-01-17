@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm a final-year Information Technology student at Can Tho University, specializing in **frontend development** with expertise in **React.js, Next.js, and Java Spring Boot**. I’m passionate about building scalable, user-friendly applications and continuously improving my skills.
+I'm a final-year Information Technology student at Can Tho University, specializing in **frontend development** with expertise in **React.js, Next.js**, and Java Spring Boot. I’m passionate about building scalable, user-friendly applications and continuously improving my skills.
 
 ## 🌐 Socials
 
