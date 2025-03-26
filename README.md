@@ -28,27 +28,32 @@ I'm a final-year Information Technology student at Can Tho University, specializ
 ---
 
 # 🛠️ Projects
-
-## 1. **E-commerce Platform (Full-stack)**  
-**Tech Stack:** React.js, Node.js, MongoDB, Tailwind CSS, Stripe, PayPal, Socket.io  
+## 1. **Vast E-commerce Platform (Next.js)**  
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Firebase, Stripe, i18next  
 **Highlights:**  
-- Built a scalable e-commerce platform with **JWT authentication**, **real-time messaging**, and **payment integration**.  
-- Developed **Seller** and **Admin dashboards** for managing products, orders, and withdrawals.  
-- Deployed on **Vercel** with **Cloudinary** for image storage.  
-
-**Live Demo:** [E-commerce Platform](https://e-commerce-nu-lyart.vercel.app/)  
-**GitHub Repo:** [e-commerce](https://github.com/tsthuy/e-commerce)  
-
+- Developed a full-featured e-commerce platform with **advanced SEO optimization**
+- Implemented **multi-language support** using i18next
+- Utilized **Zustand and TanStack Query** for efficient state management
+- Integrated **Stripe payment gateway** with comprehensive user authentication
+**GitHub Repo:** [vast-ecommerce](https://github.com/tsthuy/vast-ecommerce)  
 ---
-
-## 2. **Identity Service (Backend)**  
-**Tech Stack:** Spring Boot, Spring Security, MySQL, OAuth2, JWT, Docker  
+## 2. **Frontend Practice Landing Page**  
+**Tech Stack:** HTML, SCSS, BEM Methodology, Atomic Design Principles  
 **Highlights:**  
-- Developed a secure **authentication and authorization** service using **OAuth2** and **JWT**.  
-- Implemented **role-based access control (RBAC)** and **session management** with refresh tokens.  
-- Containerized the application using **Docker** for easy deployment.  
-
-**GitHub Repo:** [identity-service](https://github.com/tsthuy/identity-service)  
+- Created a responsive landing page demonstrating **frontend best practices**
+- Implemented **semantic HTML** for improved SEO
+- Utilized **SCSS** with advanced styling techniques
+- Applied **BEM methodology** for clean, scalable code structure
+**GitHub Repo:** [playground-html-css-scss](https://github.com/tsthuy/playground-html-css-scss)  
+---
+## 3. **Real-Time Video Chat Application**  
+**Tech Stack:** React, TypeScript, WebRTC, Firebase, Cloudinary  
+**Highlights:**  
+- Built a real-time communication platform with **WebRTC video calling**
+- Implemented **instant messaging** with Firebase Firestore
+- Developed **multimedia sharing** capabilities
+- Optimized performance with **lazy loading and virtual scrolling**
+**GitHub Repo:** [video_chat_app](https://github.com/tsthuy/video_chat_app)
 
 ---
 
