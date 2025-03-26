@@ -7,8 +7,6 @@ I'm a final-year Information Technology student at Can Tho University, specializ
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/HuyTranDevDesCre)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-tran-172622343/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsthuy&theme=radical&hide_border=false&layout=compact)  
-
 ---
 
 # 💻 Tech Stack
@@ -27,6 +25,8 @@ I'm a final-year Information Technology student at Can Tho University, specializ
 
 **Tools:**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsthuy&theme=radical&hide_border=false&layout=compact)  
 
 ---
 
