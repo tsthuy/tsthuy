@@ -6,6 +6,9 @@ I'm a final-year Information Technology student at Can Tho University, specializ
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/HuyTranDevDesCre)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-tran-172622343/)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsthuy&theme=radical&hide_border=false&layout=compact)  
+
 ---
 
 # 💻 Tech Stack
@@ -61,7 +64,6 @@ I'm a final-year Information Technology student at Can Tho University, specializ
 
 ![](https://github-readme-stats.vercel.app/api?username=tsthuy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tsthuy&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsthuy&theme=radical&hide_border=false&layout=compact)  
 
 ---
 
