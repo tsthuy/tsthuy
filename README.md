@@ -47,7 +47,7 @@ I'm a final-year Information Technology student at Can Tho University, specializ
 - Implemented **semantic HTML** for improved SEO
 - Utilized **SCSS** with advanced styling techniques
 - Applied **BEM methodology** for clean, scalable code structure
-**GitHub Repo:** [playground-html-css-scss](https://github.com/tsthuy/playground-html-css-scss)  
+**GitHub Repo:** [playground-html-css-scss](https://github.com/tsthuy/cutting-ui-the-playground)  
 ---
 ## 3. **Real-Time Video Chat Application**  
 **Tech Stack:** React, TypeScript, WebRTC, Firebase, Cloudinary  
