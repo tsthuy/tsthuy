@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm a final-year Information Technology student at Can Tho University, specializing in **frontend development** with expertise in **React.js, Next.js**, and Java Spring Boot. I’m passionate about building scalable, user-friendly applications and continuously improving my skills.
+I'm a final-year Information Technology student at Can Tho University, specializing in **frontend development** with expertise in **React.js, Next.js**, and Java Spring Boot. I’m passionate about building scalable, user-friendly applications, and I'm continuously improving my skills with a strong eagerness to learn new things.
 
 ## 🌐 Socials
 
@@ -31,32 +31,59 @@ I'm a final-year Information Technology student at Can Tho University, specializ
 ---
 
 # 🛠️ Projects
-## 1. **Vast E-commerce Platform (Next.js)**  
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Firebase, Stripe, i18next  
-**Highlights:**  
-- Developed a full-featured e-commerce platform with **advanced SEO optimization**
-- Implemented **multi-language support** using i18next
-- Utilized **Zustand and TanStack Query** for efficient state management
-- Integrated **Stripe payment gateway** with comprehensive user authentication
-**GitHub Repo:** [vast-ecommerce](https://github.com/tsthuy/vast-ecommerce)  
+## 1. **SECOND-HAND STORE MIGRATION | React, TypeScript, Tanstack Query, Zustand, Shadcn, TailwindCSS, SCSS**  
+**Description:** Migrating a second-hand e-commerce platform from React (JavaScript), Node.js (Express), and MongoDB to React
+(TypeScript), Spring Boot, and PostgreSQL. Focused on building a modern, type-safe frontend architecture with strong typing,
+reusable components, and clean API communication. Applied frontend best practices to ensure scalability, maintainability, and
+performance.
+
+**Key features:**  
+-  **Modern Frontend Stack**: Built with React (TypeScript), Shadcn, Tailwind CSS, SCSS, and Framer Motion for a responsive
+and animated UI.
+-  **Role-Based UI & SEO Support**: Supports user, seller, and admin roles with structured routing and SEO-friendly custom
+components using Helmet.
+-  **Typed API Integration**: Defined clear API contracts with TypeScript, custom Axios instance handling refresh tokens and
+auto-retry.
+-  **Product Variants System**: Designed flexible product model supporting attributes and multiple variants.
+-  **Form, Validation & Frontend Security**: Used React Hook Form and Zod for type-safe validation, combined with secure UI
+practices (disabled fields, controlled inputs, defensive programming) to prevent unintended behavior.
+-  **Performance & Code Quality**: Optimized with memoization (memo, useMemo, useCallback), custom hooks, ESLint, Husky,
+and Git conventions for consistency
+
+**GitHub Repo:** [second-hand store](https://github.com/tsthuy/e-commerce-frontend)  
+
 ---
-## 2. **Frontend Practice Landing Page**  
-**Tech Stack:** HTML, SCSS, BEM Methodology, Atomic Design Principles  
-**Highlights:**  
-- Created a responsive landing page demonstrating **frontend best practices**
-- Implemented **semantic HTML** for improved SEO
-- Utilized **SCSS** with advanced styling techniques
-- Applied **BEM methodology** for clean, scalable code structure
+
+## 2. **PIXEL-PERFECT LANDING PAGE IMPLEMENTATION | HTML, SCSS, CSS**  
+**Description:** Converted a provided Figma design into a fully responsive and SEO-optimized homepage using pure HTML and
+SCSS. Focused on pixel-perfect implementation, clean structure, and frontend best practices for design fidelity and performance.
+
+**Key features:**  
+-  **Perfect Pixel Implementation**: Ensured exact design matching with strict attention to spacing, alignment, and visual
+consistency.
+-  **SCSS & BEM Architecture**: Structured the codebase using BEM methodology and SCSS modules for maintainability,
+scalability, and clarity.
+-  **Atomic Design & SEO Best Practices**: Applied atomic CSS principles to build reusable UI components. Optimized
+accessibility and search visibility using semantic HTML, meta tags, heading hierarchy, and lazy loading.
+-  **Responsive Design & Animation**: Delivered full responsiveness across devices with SCSS media queries and implemented
+smooth UI animations.
+
 **GitHub Repo:** [playground-html-css-scss](https://github.com/tsthuy/cutting-ui-the-playground)  
+
 ---
-## 3. **Real-Time Video Chat Application**  
-**Tech Stack:** React, TypeScript, WebRTC, Firebase, Cloudinary  
-**Highlights:**  
-- Built a real-time communication platform with **WebRTC video calling**
-- Implemented **instant messaging** with Firebase Firestore
-- Developed **multimedia sharing** capabilities
-- Optimized performance with **lazy loading and virtual scrolling**
-**GitHub Repo:** [video_chat_app](https://github.com/tsthuy/video_chat_app)
+
+## 3. **E-COMMERCE PLATFORM | NextJS, Shadcn, TypeScript, Stripe, Firebase, i18n, Firebase, Google API**  
+
+**Description**: Built a scalable e-commerce system using Next.js. Integrated modern UI/UX with shadcn and TailwindCSS, focusing
+on SEO, multi-language support, Firebase login, Stripe payments, and performance optimization.
+
+**Key features:**  
+-  Product Variants & Attributes: Flexible product structure with custom variants.
+-  SEO & i18n: Optimized for search engines and multilingual support with backend i18n integration.
+-  Authentication & Payment: Google login via Firebase and Stripe payment integration.
+-  Performance Optimization: Applied useMemo, memo, and useCallback to boost rendering efficiency.
+-  Mock Integration: Used mock data to build UI before API integration.
+**GitHub Repo:** [e-commerce](https://github.com/tsthuy/vast-ecommerce)
 
 ---
 
