@@ -35,7 +35,25 @@ engineering practices.
 
 # 🛠️ Projects
 
-## 1. 🛍️ E-Commerce Platform
+## 1. 🎥 Real-time Video Call App
+
+[![WebRTC](https://img.shields.io/badge/WebRTC-P2P-333333?logo=webrtc)](https://webrtc.org/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://reactjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-Signaling-FFCA28?logo=firebase)](https://firebase.google.com/)
+
+Peer-to-peer video calling application using WebRTC, with Firestore-based signaling and STUN/TURN servers for NAT traversal.
+
+### ✨ Highlights
+
+- Built a **peer-to-peer video calling** application using WebRTC for direct browser-to-browser communication.
+- Implemented **signaling** with Firestore for offer/answer exchange.
+- Configured **STUN/TURN servers** for NAT traversal to handle complex network conditions.
+
+**GitHub:** [tsthuy/video\_chat\_app](https://github.com/tsthuy/video_chat_app)
+
+---
+
+## 2. 🛍️ E-Commerce Platform
 
 [![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
@@ -54,33 +72,7 @@ Modern e-commerce website with smooth animations, full internationalization, Goo
 - Implemented clean code practices using **ESLint**, **Husky git hooks**, and **conventional commits** to ensure maintainability.
 - Integrated **Google authentication** with `callBackUrl` to preserve user intent (add to cart, wishlist) after login, full **i18n** (multi-language), **Stripe payments**, and **SEO-friendly URLs** (product names instead of IDs) with static generation for performance.
 
-### 🛠️ Tech Stack
-
-`Next.js` · `TypeScript` · `TailwindCSS` · `Framer Motion` · `Firebase` · `Stripe` · `next-i18next`
-
 **GitHub:** [tsthuy/vast-ecommerce](https://github.com/tsthuy/vast-ecommerce)
-
----
-
-## 2. 🎥 Real-time Video Call App
-
-[![WebRTC](https://img.shields.io/badge/WebRTC-P2P-333333?logo=webrtc)](https://webrtc.org/)
-[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://reactjs.org/)
-[![Firebase](https://img.shields.io/badge/Firebase-Signaling-FFCA28?logo=firebase)](https://firebase.google.com/)
-
-Peer-to-peer video calling application using WebRTC, with Firestore-based signaling and STUN/TURN servers for NAT traversal.
-
-### ✨ Highlights
-
-- Built a **peer-to-peer video calling** application using WebRTC for direct browser-to-browser communication.
-- Implemented **signaling** with Firestore for offer/answer exchange.
-- Configured **STUN/TURN servers** for NAT traversal to handle complex network conditions.
-
-### 🛠️ Tech Stack
-
-`WebRTC` · `ReactJS` · `JavaScript` · `Firebase Firestore (Signaling)` · `STUN/TURN`
-
-**GitHub:** [tsthuy/video\_chat\_app](https://github.com/tsthuy/video_chat_app)
 
 ---
 
@@ -96,10 +88,6 @@ Converted a Figma design into a fully responsive, SEO-optimized homepage using s
 
 - Converted a **Figma design** into a responsive, SEO-optimized homepage using semantic HTML and SCSS.
 - Focused on **pixel-perfect layout**, **BEM architecture**, **atomic design**, and **smooth CSS animations**.
-
-### 🛠️ Tech Stack
-
-`HTML5` · `SCSS` · `CSS3` · `BEM` · `Atomic Design`
 
 **GitHub:** [tsthuy/cutting-ui-the-playground](https://github.com/tsthuy/cutting-ui-the-playground)
 
