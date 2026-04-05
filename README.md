@@ -34,117 +34,74 @@ engineering practices.
 ---
 
 # 🛠️ Projects
-# 🛍️ E-Commerce Platform
+
+## 1. 🛍️ E-Commerce Platform
 
 [![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
 [![Stripe](https://img.shields.io/badge/Stripe-Payments-008CDD?logo=stripe)](https://stripe.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-Auth-FFCA28?logo=firebase)](https://firebase.google.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animation-black?logo=framer)](https://www.framer.com/motion/)
+[![i18n](https://img.shields.io/badge/i18n-Multi--language-green)](https://www.i18next.com/)
 
-Modern e‑commerce website with smooth animations, full i18n, Google authentication, Stripe payments, and SEO‑friendly URLs.
+Modern e-commerce website with smooth animations, full internationalization, Google authentication, Stripe payments, and SEO-friendly URLs.
 
-## ✨ Key Features
+### ✨ Highlights
 
-- **Next.js Page Router** – Deep understanding of SSG, SSR, and routing (later migrated to App Router in other projects).
-- **Smooth Animations** – Built with Framer Motion for delightful UX.
-- **Responsive UI/UX** – Fully responsive, semantic HTML for accessibility and SEO.
-- **Authentication** – Google login via Firebase with `callBackUrl` to preserve user intent (add to cart, wishlist) after login.
-- **Multi‑language (i18n)** – Full internationalization support.
-- **Payments** – Stripe integration.
-- **SEO‑friendly URLs** – Product names instead of IDs, static generation for performance.
-- **Code Quality** – ESLint, Husky git hooks, conventional commits.
+- Built a modern e-commerce site with smooth animations (Framer Motion), fully responsive UI/UX, and semantic HTML for accessibility and SEO.
+- Used **Next.js Page Router** to deeply understand core concepts like static generation, server-side rendering, and routing before transitioning to App Router in later projects.
+- Implemented clean code practices using **ESLint**, **Husky git hooks**, and **conventional commits** to ensure maintainability.
+- Integrated **Google authentication** with `callBackUrl` to preserve user intent (add to cart, wishlist) after login, full **i18n** (multi-language), **Stripe payments**, and **SEO-friendly URLs** (product names instead of IDs) with static generation for performance.
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-- **Framework:** Next.js (Page Router)
-- **Language:** TypeScript
-- **Styling:** TailwindCSS
-- **Animation:** Framer Motion
-- **Auth & DB:** Firebase
-- **Payment:** Stripe
-- **i18n:** next-i18next
+`Next.js` · `TypeScript` · `TailwindCSS` · `Framer Motion` · `Firebase` · `Stripe` · `next-i18next`
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/tsthuy/vast-ecommerce.git
-cd vast-ecommerce
-npm install
-npm run dev
-
-**GitHub Repo:** [second-hand store](https://github.com/tsthuy/e-commerce-frontend)  
+**GitHub:** [tsthuy/vast-ecommerce](https://github.com/tsthuy/vast-ecommerce)
 
 ---
 
-## 2. Repository: `video_chat_app` (REALTIME VIDEO CALL)
-
-```markdown
-# 🎥 Real‑time Video Call App
+## 2. 🎥 Real-time Video Call App
 
 [![WebRTC](https://img.shields.io/badge/WebRTC-P2P-333333?logo=webrtc)](https://webrtc.org/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://reactjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-Signaling-FFCA28?logo=firebase)](https://firebase.google.com/)
 
-Peer‑to‑peer video calling application using WebRTC. Implements signaling with Firestore and STUN/TURN servers for NAT traversal.
+Peer-to-peer video calling application using WebRTC, with Firestore-based signaling and STUN/TURN servers for NAT traversal.
 
-## ✨ Features
+### ✨ Highlights
 
-- **Peer‑to‑peer video/audio** – Direct communication between browsers.
-- **Signaling** – Offer/answer exchange via Firestore.
-- **NAT traversal** – Configured STUN/TURN servers to handle complex network conditions.
-- **Simple UI** – Built with React for quick connection setup.
+- Built a **peer-to-peer video calling** application using WebRTC for direct browser-to-browser communication.
+- Implemented **signaling** with Firestore for offer/answer exchange.
+- Configured **STUN/TURN servers** for NAT traversal to handle complex network conditions.
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-- **Frontend:** React, JavaScript
-- **Real‑time communication:** WebRTC
-- **Signaling:** Firebase Firestore
-- **STUN/TURN:** Custom server configuration
+`WebRTC` · `ReactJS` · `JavaScript` · `Firebase Firestore (Signaling)` · `STUN/TURN`
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/tsthuy/video_chat_app.git
-cd video_chat_app
-npm install
-npm start
-
-**GitHub Repo:** [playground-html-css-scss](https://github.com/tsthuy/cutting-ui-the-playground)  
+**GitHub:** [tsthuy/video\_chat\_app](https://github.com/tsthuy/video_chat_app)
 
 ---
 
-## 3. Repository: `cutting-ui-the-playground` (PIXEL-PERFECT LANDING PAGE)
-
-```markdown
-# 🎨 Pixel‑Perfect Landing Page
+## 3. 🎨 Pixel-Perfect Landing Page
 
 [![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![SCSS](https://img.shields.io/badge/SCSS-BEM-CC6699?logo=sass)](https://sass-lang.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-Animations-1572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-Converted a Figma design into a fully responsive, SEO‑optimized homepage using pure HTML and SCSS. Focus on pixel‑perfect layout, BEM architecture, atomic design, and smooth animations.
+Converted a Figma design into a fully responsive, SEO-optimized homepage using semantic HTML and SCSS.
 
-## ✨ Highlights
+### ✨ Highlights
 
-- **Pixel‑perfect implementation** – Exact match to design (spacing, alignment, visual consistency).
-- **SCSS & BEM** – Maintainable, scalable CSS architecture.
-- **Atomic design** – Reusable UI components.
-- **SEO & Accessibility** – Semantic HTML, meta tags, heading hierarchy, lazy loading.
-- **Responsive** – Media queries for all device sizes.
-- **Smooth animations** – Pure CSS transitions and keyframes.
+- Converted a **Figma design** into a responsive, SEO-optimized homepage using semantic HTML and SCSS.
+- Focused on **pixel-perfect layout**, **BEM architecture**, **atomic design**, and **smooth CSS animations**.
 
-## 🛠️ Built with
+### 🛠️ Tech Stack
 
-- HTML5 (semantic tags)
-- SCSS (variables, mixins, nesting)
-- BEM naming convention
-- Atomic CSS methodology
+`HTML5` · `SCSS` · `CSS3` · `BEM` · `Atomic Design`
 
-## 🚀 Run locally
-
-```bash
-**GitHub Repo:** [e-commerce](https://github.com/tsthuy/vast-ecommerce)
+**GitHub:** [tsthuy/cutting-ui-the-playground](https://github.com/tsthuy/cutting-ui-the-playground)
 
 ---
 
