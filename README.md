@@ -34,58 +34,116 @@ engineering practices.
 ---
 
 # 🛠️ Projects
-## 1. **SECOND-HAND STORE MIGRATION | React, TypeScript, Tanstack Query, Zustand, Shadcn, TailwindCSS, SCSS**  
-**Description:** Migrating a second-hand e-commerce platform from React (JavaScript), Node.js (Express), and MongoDB to React
-(TypeScript), Spring Boot, and PostgreSQL. Focused on building a modern, type-safe frontend architecture with strong typing,
-reusable components, and clean API communication. Applied frontend best practices to ensure scalability, maintainability, and
-performance.
+# 🛍️ E-Commerce Platform
 
-**Key features:**  
--  **Modern Frontend Stack**: Built with React (TypeScript), Shadcn, Tailwind CSS, SCSS, and Framer Motion for a responsive
-and animated UI.
--  **Role-Based UI & SEO Support**: Supports user, seller, and admin roles with structured routing and SEO-friendly custom
-components using Helmet.
--  **Typed API Integration**: Defined clear API contracts with TypeScript, custom Axios instance handling refresh tokens and
-auto-retry.
--  **Product Variants System**: Designed flexible product model supporting attributes and multiple variants.
--  **Form, Validation & Frontend Security**: Used React Hook Form and Zod for type-safe validation, combined with secure UI
-practices (disabled fields, controlled inputs, defensive programming) to prevent unintended behavior.
--  **Performance & Code Quality**: Optimized with memoization (memo, useMemo, useCallback), custom hooks, ESLint, Husky,
-and Git conventions for consistency
+[![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-Payments-008CDD?logo=stripe)](https://stripe.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-Auth-FFCA28?logo=firebase)](https://firebase.google.com/)
+
+Modern e‑commerce website with smooth animations, full i18n, Google authentication, Stripe payments, and SEO‑friendly URLs.
+
+## ✨ Key Features
+
+- **Next.js Page Router** – Deep understanding of SSG, SSR, and routing (later migrated to App Router in other projects).
+- **Smooth Animations** – Built with Framer Motion for delightful UX.
+- **Responsive UI/UX** – Fully responsive, semantic HTML for accessibility and SEO.
+- **Authentication** – Google login via Firebase with `callBackUrl` to preserve user intent (add to cart, wishlist) after login.
+- **Multi‑language (i18n)** – Full internationalization support.
+- **Payments** – Stripe integration.
+- **SEO‑friendly URLs** – Product names instead of IDs, static generation for performance.
+- **Code Quality** – ESLint, Husky git hooks, conventional commits.
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js (Page Router)
+- **Language:** TypeScript
+- **Styling:** TailwindCSS
+- **Animation:** Framer Motion
+- **Auth & DB:** Firebase
+- **Payment:** Stripe
+- **i18n:** next-i18next
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/tsthuy/vast-ecommerce.git
+cd vast-ecommerce
+npm install
+npm run dev
 
 **GitHub Repo:** [second-hand store](https://github.com/tsthuy/e-commerce-frontend)  
 
 ---
 
-## 2. **PIXEL-PERFECT LANDING PAGE IMPLEMENTATION | HTML, SCSS, CSS**  
-**Description:** Converted a provided Figma design into a fully responsive and SEO-optimized homepage using pure HTML and
-SCSS. Focused on pixel-perfect implementation, clean structure, and frontend best practices for design fidelity and performance.
+## 2. Repository: `video_chat_app` (REALTIME VIDEO CALL)
 
-**Key features:**  
--  **Perfect Pixel Implementation**: Ensured exact design matching with strict attention to spacing, alignment, and visual
-consistency.
--  **SCSS & BEM Architecture**: Structured the codebase using BEM methodology and SCSS modules for maintainability,
-scalability, and clarity.
--  **Atomic Design & SEO Best Practices**: Applied atomic CSS principles to build reusable UI components. Optimized
-accessibility and search visibility using semantic HTML, meta tags, heading hierarchy, and lazy loading.
--  **Responsive Design & Animation**: Delivered full responsiveness across devices with SCSS media queries and implemented
-smooth UI animations.
+```markdown
+# 🎥 Real‑time Video Call App
+
+[![WebRTC](https://img.shields.io/badge/WebRTC-P2P-333333?logo=webrtc)](https://webrtc.org/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://reactjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-Signaling-FFCA28?logo=firebase)](https://firebase.google.com/)
+
+Peer‑to‑peer video calling application using WebRTC. Implements signaling with Firestore and STUN/TURN servers for NAT traversal.
+
+## ✨ Features
+
+- **Peer‑to‑peer video/audio** – Direct communication between browsers.
+- **Signaling** – Offer/answer exchange via Firestore.
+- **NAT traversal** – Configured STUN/TURN servers to handle complex network conditions.
+- **Simple UI** – Built with React for quick connection setup.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, JavaScript
+- **Real‑time communication:** WebRTC
+- **Signaling:** Firebase Firestore
+- **STUN/TURN:** Custom server configuration
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/tsthuy/video_chat_app.git
+cd video_chat_app
+npm install
+npm start
 
 **GitHub Repo:** [playground-html-css-scss](https://github.com/tsthuy/cutting-ui-the-playground)  
 
 ---
 
-## 3. **E-COMMERCE PLATFORM | NextJS, Shadcn, TypeScript, Stripe, Firebase, i18n, Firebase, Google API**  
+## 3. Repository: `cutting-ui-the-playground` (PIXEL-PERFECT LANDING PAGE)
 
-**Description**: Built a scalable e-commerce system using Next.js. Integrated modern UI/UX with shadcn and TailwindCSS, focusing
-on SEO, multi-language support, Firebase login, Stripe payments, and performance optimization.
+```markdown
+# 🎨 Pixel‑Perfect Landing Page
 
-**Key features:**  
--  Product Variants & Attributes: Flexible product structure with custom variants.
--  SEO & i18n: Optimized for search engines and multilingual support with backend i18n integration.
--  Authentication & Payment: Google login via Firebase and Stripe payment integration.
--  Performance Optimization: Applied useMemo, memo, and useCallback to boost rendering efficiency.
--  Mock Integration: Used mock data to build UI before API integration.
+[![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![SCSS](https://img.shields.io/badge/SCSS-BEM-CC6699?logo=sass)](https://sass-lang.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-Animations-1572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+Converted a Figma design into a fully responsive, SEO‑optimized homepage using pure HTML and SCSS. Focus on pixel‑perfect layout, BEM architecture, atomic design, and smooth animations.
+
+## ✨ Highlights
+
+- **Pixel‑perfect implementation** – Exact match to design (spacing, alignment, visual consistency).
+- **SCSS & BEM** – Maintainable, scalable CSS architecture.
+- **Atomic design** – Reusable UI components.
+- **SEO & Accessibility** – Semantic HTML, meta tags, heading hierarchy, lazy loading.
+- **Responsive** – Media queries for all device sizes.
+- **Smooth animations** – Pure CSS transitions and keyframes.
+
+## 🛠️ Built with
+
+- HTML5 (semantic tags)
+- SCSS (variables, mixins, nesting)
+- BEM naming convention
+- Atomic CSS methodology
+
+## 🚀 Run locally
+
+```bash
 **GitHub Repo:** [e-commerce](https://github.com/tsthuy/vast-ecommerce)
 
 ---
